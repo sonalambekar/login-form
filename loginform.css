@@ -1,0 +1,47 @@
+body{
+    margin: 50px;
+    padding: 50px;
+    background-color: grey;
+    border: 4px solid darkslategray ;
+    
+}
+.login{
+    text-align: center;
+    padding-bottom: 40px;
+    background-color: lightgrey;
+    text-align: center;
+    padding-top: 30px;
+    border: 3px solid darkslategrey;
+
+}
+.input_text{
+    padding-bottom: 10px;
+    border: 3px solid darkslategray;
+}
+.input_group{
+    padding-bottom: 20px;
+}
+.button_group{
+    background-color: lightgrey;
+    width: 50px;
+    padding: 5px;
+    border: 3px solid darkslategray;
+    text-align: center;
+    
+    
+}
+.this{
+    background-color: lightgrey;
+    border: 3px solid darkslategray;
+    padding: 4px;
+    
+    
+}
+.that{
+    background-color: lightgrey;
+    border: 3px solid darkslategray;
+    padding: 4px;
+}
+.yaa{
+    padding-top: 50px;
+}
